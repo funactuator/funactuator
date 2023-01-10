@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **React,JS, Software Engineering**
+- 💬 Ask me about **React,Javascript, Software Engineering**
 
 - 📫 How to reach me **kuldeep.msvm@gmail.com**
 
